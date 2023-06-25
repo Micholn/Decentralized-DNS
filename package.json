@@ -1,0 +1,14 @@
+{
+    "name": "decentralized-dns",
+    "version": "1.0.0",
+    "description": "Implementing a Celo-Based Decentralized Domain Name System",
+    "main": "index.js",
+    "scripts": {
+      "test": "truffle test"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "truffle": "^5.4.2"
+    }
+  }
